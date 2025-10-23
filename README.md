@@ -175,13 +175,13 @@ Submit your code using the Github upload feature on [autolab](https://autolab.cs
 You will be graded on the following. Penalties are listed under each point, absolute values, w.r.t activity total.
 
 1. Action Update (50%)
-    - Correct action update: (30%)
-       - General case (15%)
-       - Edge Case (15%)
-    - Beliefs add upto 1 (20%)
+    - Correct action update: (40%)
+       - General case (20%)
+       - Edge Case (20%)
+    - Beliefs add upto 1 (10%)
 3. Observation Update (50%)
-    - Correct Observation update: (30%)
-       - General case (15%)
-       - Edge Case (15%)
-    - If beliefs don't add upto 1 (-20%)
+    - Correct Observation update: (40%)
+       - General case (20%)
+       - Edge Case (20%)
+    - If beliefs don't add upto 1 (10%)
 
